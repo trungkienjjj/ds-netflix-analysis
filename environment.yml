@@ -14,5 +14,4 @@ dependencies:
   - ipykernel
   - pip
   - pip:
-    - sentence-transformers
     - wordcloud
