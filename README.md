@@ -83,6 +83,7 @@ Ngoài ra:
 2. Vũ Nguyễn Trung Hiếu - 23122028
 
 ## License
-Dự án này được phân phối dưới giấy phép MIT License. Xem file LICENSE để biết thêm chi tiết.
+
+Dự án này được phân phối dưới giấy phép **[MIT License](LICENSE)**.
 
 **Khoa Công nghệ Thông tin - ĐH KHTN, ĐHQG-HCM**
