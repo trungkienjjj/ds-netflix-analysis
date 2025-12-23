@@ -24,12 +24,6 @@ Dự án được tổ chức thành các bước phân tích tuần tự tươn
 | **04_Recommender_System.ipynb** | Machine Learning | Xây dựng Content-Based Recommendation System sử dụng TF-IDF và Cosine Similarity. |
 | **05_Summary.ipynb** | Project Summary | Tổng kết dự án, đánh giá mô hình và đề xuất hướng phát triển. |### Quy trình thực hiện
 
-1. **Data Collection**: Thu thập và tìm hiểu dữ liệu
-2. **Data Exploration**: Khám phá dữ liệu
-3. **Preprocessing**: Làm sạch dữ liệu (xử lý missing values, chuẩn hóa ngày tháng, tách chuỗi)
-4. **Data Analysis (EDA)**: Trực quan hóa để trả lời các câu hỏi chiến lược
-5. **Machine Learning**: Xây dựng Content-Based Recommendation System sử dụng TF-IDF
-6. **Project Summary**: Tóm tắt dự án
 
 Ngoài ra:
 * `data/`: Chứa dữ liệu thô (`raw`) và dữ liệu đã qua xử lý (`processed`).
